@@ -7,11 +7,10 @@ In this journey, I am going to work with different #100DaysofCode folder. Here i
 
 <details>
 <summary>Replit - 100 days of python</summary>
-
 In this course, I will build games, apps, and websites by mastering Python programming. Start the course to build 100 projects. <br>
 Link : https://replit.com/learn/100-days-of-python/
 
-- [X] Day 1 : Hello World <br>
+- [ ] Day 1 : Hello World <br>
 - [ ] Day 2 : Input and Variables
 - [ ] Day 3 : Concat...what?
 - [ ] Day 4 : 'Print' in Color!
@@ -21,4 +20,12 @@ Link : https://replit.com/learn/100-days-of-python/
 - [ ] Day 8 : Affirmation Generator
 - [ ] Day 9 : Casting Spells on Your Code
 - [ ] Day 10 : Show Me the $$
+    
+</details>
+
+<details>
+<summary>DSA - 100 Days of Data Structure and Algorithm</summary>
+I am going to learn/practice at least one question/topic daily of DSA using C++/Python Programming Language <br>
+
+- [ ] Day 1 : Hello World <br>
 </details>
