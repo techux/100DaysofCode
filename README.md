@@ -12,7 +12,7 @@ Link : https://replit.com/learn/100-days-of-python/
 
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|- <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Hello World]() | None|
+|<ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Hello World]() | None|
 | <ul><li>[ ] </li></ul> | Day 2 | 25 October 2023 | [Input and Variables]() | None|
 | <ul><li>[ ] </li></ul> | Day 3 | 26 October 2023 | [Concat...what?]() | None|
 | <ul><li>[ ] </li></ul> | Day 4 | 27 October 2023 | ['Print' in Color!]() | None|
