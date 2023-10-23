@@ -22,7 +22,7 @@ Link : https://replit.com/learn/100-days-of-python/
 | <ul><li>[ ] </li></ul> | Day 8 | 31 October 2023 | [Affirmation Generator]() | None|
 | <ul><li>[ ] </li></ul> | Day 9 | 1 November 2023 | [Casting Spells on Your Code]() | None|
 | <ul><li>[ ] </li></ul> | Day 10 | 2 November 2023 | [Show Me the $$]() | None|
-|*[Show more...]()*|
+|*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/Replit)*|
 
     
 ### DSA - 100 Days of Data Structure and Algorithm
@@ -31,7 +31,7 @@ I am going to learn/practice at least one question/topic daily of DSA using C++/
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
-|*[Show more...]()*|
+|*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/DSA)*|
 
 
 ### Random Coding
@@ -40,7 +40,7 @@ In this folder, I am going to maintain those , which I do for fun purpose or whe
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
-|*[Show more...]()*|
+|*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding)*|
 
 
 ## My Social Links
