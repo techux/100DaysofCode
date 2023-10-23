@@ -1,15 +1,10 @@
-# 100DaysofCode
-Embarking on the '100 Days of Code' journey to enhance my programming skills, build exciting projects, and foster a daily coding habit. Join me in this coding adventure! 💻 #100DaysOfCode
+# 100 Days of Python
 
-In this journey, I am going to work with different #100DaysofCode folder. Here is the details.
+In this folder, I am going to maintain my 100 days streak of Python coding with the guidance under Replit 100-days-of-python Course. <br>
 
-## Domains I follow
-These are the course, Tutorials, Notes I followed for Completing my challenge and learning new things.
+**Course Link :** https://replit.com/learn/100-days-of-python/
 
-### Replit - 100 days of python
-In this course, I will build games, apps, and websites by mastering Python programming. Start the course to build 100 projects. <br>
-Link : https://replit.com/learn/100-days-of-python/
-
+## My Streak
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
 |[ ] | Day 1 | 24 October 2023 | [Hello World]() | None|
@@ -23,25 +18,6 @@ Link : https://replit.com/learn/100-days-of-python/
 |[ ] | Day 9 | 1 November 2023 | [Casting Spells on Your Code]() | None|
 |[ ] | Day 10 | 2 November 2023 | [Show Me the $$]() | None|
 |*[Show more...]()*|
-
-    
-### DSA - 100 Days of Data Structure and Algorithm
-I am going to learn/practice at least one question/topic daily of DSA using C++/Python Programming Language <br>
-
-|Progress|Day| Date|Topic| Notes |
-|:-:|:-:|:-:|-|:-:|
-|[ ] | Day 1 | 24 October 2023 | [Coming Soon]() | None|
-|*[Show more...]()*|
-
-
-### Random Coding
-In this folder, I am going to maintain those , which I do for fun purpose or when I am not working on any project or course. <br>
-
-|Progress|Day| Date|Topic| Notes |
-|:-:|:-:|:-:|-|:-:|
-|[ ] | Day 1 | 24 October 2023 | [Coming Soon]() | None|
-|*[Show more...]()*|
-
 
 
 ## My Social Links
