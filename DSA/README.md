@@ -10,7 +10,7 @@ In this folder, I am going to maintain my 100 days streak for Learning and pract
 ## My Streak
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|[ ] | Day 1 | 24 October 2023 | [Coming Soon]() | None|
+| <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
 |*[Show more...]()*|
 
 
