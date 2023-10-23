@@ -12,16 +12,16 @@ Link : https://replit.com/learn/100-days-of-python/
 
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|- [ ]  | Day 1 | 24 October 2023 | [Hello World]() | None|
-|[ ] | Day 2 | 25 October 2023 | [Input and Variables]() | None|
-|[ ] | Day 3 | 26 October 2023 | [Concat...what?]() | None|
-|[ ] | Day 4 | 27 October 2023 | ['Print' in Color!]() | None|
-|[ ] | Day 5 | 28 October 2023 | [If this...else that!]() | None|
-|[ ] | Day 6 | 29 October 2023 | [What the elif is this?]() | None|
-|[ ] | Day 7 | 30 October 2023 | [Nesting ~Dolls~ Code]() | None|
-|[ ] | Day 8 | 31 October 2023 | [Affirmation Generator]() | None|
-|[ ] | Day 9 | 1 November 2023 | [Casting Spells on Your Code]() | None|
-|[ ] | Day 10 | 2 November 2023 | [Show Me the $$]() | None|
+|- <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Hello World]() | None|
+| <ul><li>[ ] </li></ul> | Day 2 | 25 October 2023 | [Input and Variables]() | None|
+| <ul><li>[ ] </li></ul> | Day 3 | 26 October 2023 | [Concat...what?]() | None|
+| <ul><li>[ ] </li></ul> | Day 4 | 27 October 2023 | ['Print' in Color!]() | None|
+| <ul><li>[ ] </li></ul> | Day 5 | 28 October 2023 | [If this...else that!]() | None|
+| <ul><li>[ ] </li></ul> | Day 6 | 29 October 2023 | [What the elif is this?]() | None|
+| <ul><li>[ ] </li></ul> | Day 7 | 30 October 2023 | [Nesting ~Dolls~ Code]() | None|
+| <ul><li>[ ] </li></ul> | Day 8 | 31 October 2023 | [Affirmation Generator]() | None|
+| <ul><li>[ ] </li></ul> | Day 9 | 1 November 2023 | [Casting Spells on Your Code]() | None|
+| <ul><li>[ ] </li></ul> | Day 10 | 2 November 2023 | [Show Me the $$]() | None|
 |*[Show more...]()*|
 
     
