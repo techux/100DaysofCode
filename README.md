@@ -12,7 +12,7 @@ Link : https://replit.com/learn/100-days-of-python/
 
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|[ ] | Day 1 | 24 October 2023 | [Hello World]() | None|
+|- [ ]  | Day 1 | 24 October 2023 | [Hello World]() | None|
 |[ ] | Day 2 | 25 October 2023 | [Input and Variables]() | None|
 |[ ] | Day 3 | 26 October 2023 | [Concat...what?]() | None|
 |[ ] | Day 4 | 27 October 2023 | ['Print' in Color!]() | None|
@@ -30,7 +30,7 @@ I am going to learn/practice at least one question/topic daily of DSA using C++/
 
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|[ ] | Day 1 | 24 October 2023 | [Coming Soon]() | None|
+| <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
 |*[Show more...]()*|
 
 
@@ -39,9 +39,8 @@ In this folder, I am going to maintain those , which I do for fun purpose or whe
 
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|[ ] | Day 1 | 24 October 2023 | [Coming Soon]() | None|
+| <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
 |*[Show more...]()*|
-
 
 
 ## My Social Links
