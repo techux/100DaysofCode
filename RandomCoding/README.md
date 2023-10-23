@@ -4,7 +4,7 @@ This folder includes all those codes which I did daily, on random basis, for fun
 ## My Streak
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|[ ] | Day 1 | 24 October 2023 | [Coming Soon]() | None|
+| <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
 |*[Show more...]()*|
 
 
