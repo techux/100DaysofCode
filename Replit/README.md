@@ -7,16 +7,16 @@ In this folder, I am going to maintain my 100 days streak of Python coding with 
 ## My Streak
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-|<ul><li>[X] </li></ul> | Day 1 | 24 October 2023 | [Hello World]() | None|
-| <ul><li>[X] </li></ul> | Day 2 | 25 October 2023 | [Input and Variables]() | None|
-| <ul><li>[ ] </li></ul> | Day 3 | 26 October 2023 | [Concat...what?]() | None|
-| <ul><li>[ ] </li></ul> | Day 4 | 27 October 2023 | ['Print' in Color!]() | None|
-| <ul><li>[ ] </li></ul> | Day 5 | 28 October 2023 | [If this...else that!]() | None|
-| <ul><li>[ ] </li></ul> | Day 6 | 29 October 2023 | [What the elif is this?]() | None|
-| <ul><li>[ ] </li></ul> | Day 7 | 30 October 2023 | [Nesting ~Dolls~ Code]() | None|
-| <ul><li>[ ] </li></ul> | Day 8 | 31 October 2023 | [Affirmation Generator]() | None|
-| <ul><li>[ ] </li></ul> | Day 9 | 1 November 2023 | [Casting Spells on Your Code]() | None|
-| <ul><li>[ ] </li></ul> | Day 10 | 2 November 2023 | [Show Me the $$]() | None|
+|<ul><li>[X] </li></ul> | Day 1 | 24 October 2023 | [Hello World](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day1%20Hello%20World.py) | None|
+| <ul><li>[X] </li></ul> | Day 2 | 25 October 2023 | [Input and Variables](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%202%20Input%20and%20Variables.py) | None|
+| <ul><li>[X] </li></ul> | Day 3 | 26 October 2023 | [Concat...what?](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%203%20Concatenate.py) | None|
+| <ul><li>[ ] </li></ul> | Day 4 | 27 October 2023 | ['Print' in Color!](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
+| <ul><li>[ ] </li></ul> | Day 5 | 28 October 2023 | [If this...else that!](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
+| <ul><li>[ ] </li></ul> | Day 6 | 29 October 2023 | [What the elif is this?](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
+| <ul><li>[ ] </li></ul> | Day 7 | 30 October 2023 | [Nesting ~Dolls~ Code](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
+| <ul><li>[ ] </li></ul> | Day 8 | 31 October 2023 | [Affirmation Generator](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
+| <ul><li>[ ] </li></ul> | Day 9 | 1 November 2023 | [Casting Spells on Your Code](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
+| <ul><li>[ ] </li></ul> | Day 10 | 2 November 2023 | [Show Me the $$](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
 |*[Show more...]()*|
 
 
