@@ -12,7 +12,7 @@ In this folder, I am going to maintain my 100 days streak of Python coding with 
 | <ul><li>[X] </li></ul> | Day 3 | 26 October 2023 | [Concat...what?](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%203%20Concatenate.py) | None|
 | <ul><li>[X] </li></ul> | Day 4 | 27 October 2023 | ['Print' in Color!](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%204%20Challenge.py) | None|
 | <ul><li>[x] </li></ul> | Day 5 | 28 October 2023 | [If this...else that!](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%205%20If%20Statement.py) | None|
-| <ul><li>[ ] </li></ul> | Day 6 | 29 October 2023 | [What the elif is this?](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
+| <ul><li>[x] </li></ul> | Day 6 | 29 October 2023 | [What the elif is this?](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%206%20If%20elif.py) | None|
 | <ul><li>[ ] </li></ul> | Day 7 | 30 October 2023 | [Nesting ~Dolls~ Code](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
 | <ul><li>[ ] </li></ul> | Day 8 | 31 October 2023 | [Affirmation Generator](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
 | <ul><li>[ ] </li></ul> | Day 9 | 1 November 2023 | [Casting Spells on Your Code](https://github.com/TechUX/100DaysofCode/tree/main/Replit) | None|
