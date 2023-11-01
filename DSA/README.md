@@ -10,7 +10,7 @@ In this folder, I am going to maintain my 100 days streak for Learning and pract
 ## My Streak
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-| <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
+| <ul><li>[x] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [Striver SDE Sheet followed](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 |*[Show more...]()*|
 
 
