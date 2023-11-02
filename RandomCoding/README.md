@@ -4,7 +4,7 @@ This folder includes all those codes which I did daily, on random basis, for fun
 ## My Streak
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-| <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
+| <ul><li>[x] </li></ul> | Day 1 | 2 November 2023 | [UIMS-Xplorer](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding/Day%201/UIMS-Xplorer.py) | College Student Dashboard Scrapping|
 |*[Show more...]()*|
 
 

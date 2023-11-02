@@ -30,7 +30,7 @@ I am going to learn/practice at least one question/topic daily of DSA using C++/
 
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-| <ul><li>[ ] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [Striver SDE Sheet followed](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
+| <ul><li>[x] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [Striver SDE Sheet followed](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/DSA)*|
 
 
@@ -39,7 +39,7 @@ In this folder, I am going to maintain those , which I do for fun purpose or whe
 
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
-| <ul><li>[ ] </li></ul> | Day 1 | 24 October 2023 | [Coming Soon]() | None|
+| <ul><li>[x] </li></ul> | Day 1 | 2 November 2023 | [UIMS-Xplorer](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding/Day%201/UIMS-Xplorer.py) | College Student Dashboard Scrapping|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding)*|
 
 
