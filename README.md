@@ -21,7 +21,7 @@ Link : https://replit.com/learn/100-days-of-python/
 | <ul><li>[x] </li></ul> | Day 7 | 30 October 2023 | [Nesting ~Dolls~ Code](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%207%20Nesting.py) | None|
 | <ul><li>[x] </li></ul> | Day 8 | 31 October 2023 | [Affirmation Generator](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%208%20Challenge.py) | None|
 | <ul><li>[x] </li></ul> | Day 9 | 1 November 2023 | [Casting Spells on Your Code](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%209%20Casting.py) | None|
-| <ul><li>[x] </li></ul> | Day 10 | 2 November 2023 | [Show Me the $$](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%209%20/A-Little-bit-math.py) | None|
+| <ul><li>[x] </li></ul> | Day 10 | 2 November 2023 | [Show Me the $$](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2010%20A-Little-bit-math.py) | None|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/Replit)*|
 
     
@@ -31,6 +31,7 @@ I am going to learn/practice at least one question/topic daily of DSA using C++/
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[x] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [Striver SDE Sheet followed](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
+| <ul><li>[x] </li></ul> | Day 2 | 2 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [Striver SDE Sheet followed](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/DSA)*|
 
 
