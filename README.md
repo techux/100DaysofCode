@@ -31,7 +31,7 @@ I am going to learn/practice at least one question/topic daily of DSA using C++/
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[x] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [if-else,datatypes](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
-| <ul><li>[x] </li></ul> | Day 2 | 2 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%202%20-%20Basics%20of%20C%2B%2B%2B) | [Basics of Array](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
+| <ul><li>[x] </li></ul> | Day 2 | 2 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%202%20-%20Basics%20of%20C%2B%2B) | [Basics of Array](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/DSA)*|
 
 
