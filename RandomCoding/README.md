@@ -5,6 +5,7 @@ This folder includes all those codes which I did daily, on random basis, for fun
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[x] </li></ul> | Day 1 | 2 November 2023 | [UIMS-Xplorer](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding/Day%201/UIMS-Xplorer.py) | College Student Dashboard Scrapping|
+| <ul><li>[x] </li></ul> | Day 2 | 3 November 2023 | [Guess the number game](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%202/number-guessing-game.py) | *None*|
 |*[Show more...]()*|
 
 

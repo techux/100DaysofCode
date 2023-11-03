@@ -32,6 +32,7 @@ I am going to learn/practice at least one question/topic daily of DSA using C++/
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[x] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [if-else,datatypes](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 | <ul><li>[x] </li></ul> | Day 2 | 2 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%202%20-%20Basics%20of%20C%2B%2B) | [Basics of Array](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
+| <ul><li>[x] </li></ul> | Day 3 | 3 November 2023 | [Sum of even Odd Question](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%203/sum-of-even-odd.cpp) | [Problem on Coding Ninjas](https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650)|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/DSA)*|
 
 
@@ -41,6 +42,7 @@ In this folder, I am going to maintain those , which I do for fun purpose or whe
 |Progress|Day| Date|Topic| Notes |
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[x] </li></ul> | Day 1 | 2 November 2023 | [UIMS-Xplorer](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding/Day%201/UIMS-Xplorer.py) | College Student Dashboard Scrapping|
+| <ul><li>[x] </li></ul> | Day 2 | 3 November 2023 | [Guess the number game](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%202/number-guessing-game.py) | *None*|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding)*|
 
 

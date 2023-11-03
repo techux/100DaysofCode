@@ -12,6 +12,7 @@ In this folder, I am going to maintain my 100 days streak for Learning and pract
 |:-:|:-:|:-:|-|:-:|
 | <ul><li>[x] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [if-else,datatypes](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 | <ul><li>[x] </li></ul> | Day 2 | 2 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%202%20-%20Basics%20of%20C%2B%2B) | [Basics of Array](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
+| <ul><li>[x] </li></ul> | Day 3 | 3 November 2023 | [Sum of even Odd Question](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%203/sum-of-even-odd.cpp) | [Problem on Coding Ninjas](https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650)|
 |*[Show more...]()*|
 
 
