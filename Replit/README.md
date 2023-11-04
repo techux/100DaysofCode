@@ -17,7 +17,8 @@ In this folder, I am going to maintain my 100 days streak of Python coding with 
 | <ul><li>[x] </li></ul> | Day 8 | 31 October 2023 | [Affirmation Generator](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%208%20Challenge.py) | None|
 | <ul><li>[x] </li></ul> | Day 9 | 1 November 2023 | [Casting Spells on Your Code](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%209%20Casting.py) | None|
 | <ul><li>[x] </li></ul> | Day 10 | 2 November 2023 | [Show Me the $$](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2010%20A-Little-bit-math.py) | None|
-|*[Show more...]()*|
+| <ul><li>[x] </li></ul> | Day 11 | 3 November 2023 | [Number Of Seconds in a Year](https://github.com/TechUX/100DaysofCode/blob/main/Replit/Day%2011%20Number-of-Second-in-Leap-year.py) | None|
+| <ul><li>[x] </li></ul> | Day 12 | 4 November 2023 | [Show Me the $$](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2012%20Debug-the-code.py) | None|
 
 
 ## My Social Links
