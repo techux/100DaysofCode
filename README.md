@@ -33,6 +33,7 @@ I am going to learn/practice at least one question/topic daily of DSA using C++/
 | <ul><li>[x] </li></ul> | Day 1 | 1 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%201%20-%20Basic%20of%20C%2B%2B) | [if-else,datatypes](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 | <ul><li>[x] </li></ul> | Day 2 | 2 November 2023 | [Basics of C++](https://github.com/TechUX/100DaysofCode/tree/main/DSA/Day%202%20-%20Basics%20of%20C%2B%2B) | [Basics of Array](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)|
 | <ul><li>[x] </li></ul> | Day 3 | 3 November 2023 | [Sum of even Odd Question](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%203/sum-of-even-odd.cpp) | [Problem on Coding Ninjas](https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650)|
+| <ul><li>[x] </li></ul> | Day 4 | 4 November 2023 | [Learning Functions](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%204%20-%20Functions) | [Striver A2Z Playlist](https://www.youtube.com/watch?v=EAR7De6Goz4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=2&t=3739s)|
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/DSA)*|
 
 
