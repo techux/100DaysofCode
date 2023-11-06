@@ -8,6 +8,7 @@ This folder includes all those codes which I did daily, on random basis, for fun
 | <ul><li>[x] </li></ul> | Day 2 | 3 November 2023 | [Guess the number game](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%202/number-guessing-game.py) | *None*|
 | <ul><li>[x] </li></ul> | Day 3 | 4 November 2023 | [UIMS Explorer](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%203/UIMS-Xplorer.py) | *None*|
 | <ul><li>[x] </li></ul> | Day 4 | 5 November 2023 | [Simple Flask API](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%204/flask-basic.py) | *None*|
+| <ul><li>[x] </li></ul> | Day 5 | 6 November 2023 | [Random Password Generator in JavaScript](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%205/) | *None*|
 |*[Show more...]()*|
 
 
