@@ -15,7 +15,8 @@ In this folder, I am going to maintain my 100 days streak for Learning and pract
 | <ul><li>[x] </li></ul> | Day 3 | 3 November 2023 | [Sum of even Odd Question](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%203/sum-of-even-odd.cpp) | [Problem on Coding Ninjas](https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650)|
 | <ul><li>[x] </li></ul> | Day 4 | 4 November 2023 | [Learning Functions](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%204%20-%20Functions) | [Striver A2Z Playlist](https://www.youtube.com/watch?v=EAR7De6Goz4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=2&t=3739s)|
 | <ul><li>[x] </li></ul> | Day 6 | 6 November 2023 | [Basic Arrays and Pass by reference](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%206/) | [Striver A2Z Playlist](https://www.youtube.com/watch?v=EAR7De6Goz4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=2&t=3739s)|
-| <ul><li>[x] </li></ul> | Day 7 | 7 November 2023 | [Pattern Problems](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%207%20Patterns/) | [Striver A2Z Playlist](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)|
+| <ul><li>[x] </li></ul> | Day 7 | 7 November 2023 | [Pattern Problems 1](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%207%20Patterns/) | [Striver A2Z Playlist](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)|
+| <ul><li>[x] </li></ul> | Day 8 | 8 November 2023 | [Pattern Problems 2](https://github.com/TechUX/100DaysofCode/blob/main/DSA/Day%208%20Patterns/) | [Striver A2Z Playlist](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)|
 |*[Show more...]()*|
 
 
