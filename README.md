@@ -53,7 +53,8 @@ In this folder, I am going to maintain those , which I do for fun purpose or whe
 | <ul><li>[x] </li></ul> | Day 4 | 6 November 2023 | [Random Password Generator in JavaScript](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%20/) | *None*|
 | <ul><li>[x] </li></ul> | Day 5 | 6 November 2023 | [Random Password Generator in JavaScript](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%205/) | *None*|
 | <ul><li>[x] </li></ul> | Day 6 | 7 November 2023 | [Part of AI Training : Ectract Letter from Image Word](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%206/) | *None*|
-| <ul><li>[x] </li></ul> | Day 7 | 8 November 2023 | [Complete Star Pyramid](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%207/) | *None*|
+| <ul><li>[x] </li></ul> | Day 7 | 8 November 2023 | [Complete Star Pyramid in C++](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%207/) | *None*|
+| <ul><li>[x] </li></ul> | Day 8 | 9 November 2023 | [Complete Star Pyramid](https://github.com/TechUX/100DaysofCode/blob/main/RandomCoding/Day%208/) | *None*|
 
 |*[Show more...](https://github.com/TechUX/100DaysofCode/tree/main/RandomCoding)*|
 
