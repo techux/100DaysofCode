@@ -1,3 +1,5 @@
+# Day 17 Rock-Paper-Scissor same complete in python
+
 print("Select your move (R, P or S)\n")
 
 player1_score = player2_score = 0
