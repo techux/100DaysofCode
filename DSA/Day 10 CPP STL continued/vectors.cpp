@@ -37,7 +37,16 @@ int main() {
     cout << v[0] << " "<< v[1] << endl;
 
     // Method 2 - using at(index_number) function
-    cout << v.at(0) << " "<< v.at(1) ;
+    cout << v.at(0) << " "<< v.at(1) << endl ;
+
+    // Method 3 - Using Iterators
+    // It point towards the memory address of the vector elements
+    vector <int>::iterator it = v.begin() ;
+
+    cout << "First element : " << *it << endl ;
+    it++ ;
+    cout << "Second element : " << *it << endl ;
+    
     
     return 0;
 }
