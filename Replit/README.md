@@ -21,9 +21,11 @@ In this folder, I am going to maintain my 100 days streak of Python coding with 
 | <ul><li>[x] </li></ul> | Day 12 | 4 November 2023 | [Show Me the $$](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2012%20Debug-the-code.py) | None|
 | <ul><li>[x] </li></ul> | Day 13 | 5 November 2023 | [Tell the grade based on Percentage](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2013%20Challenge.py) | None|
 | <ul><li>[x] </li></ul> | Day 14 | 6 November 2023 | [2 Player Game](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2014%202-player-game.py) | None|
-| <ul><li>[x] </li></ul> | Day 15 | 7 November 2023 | [For Loop Challenge](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2015%20Day%20%15%20Loops-Challenge.py) | None|
-| <ul><li>[x] </li></ul> | Day 16 | 8 November 2023 | [While True Loop](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2015%20Day%20%16%While-True-loop.py) | None|
-| <ul><li>[x] </li></ul> | Day 17 | 9 November 2023 | [Rock Paper Scissors](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2015%20Day%20%17%Rock-Paper-Scissors.py) | None|
+| <ul><li>[x] </li></ul> | Day 15 | 7 November 2023 | [For Loop Challenge](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2015%20Loops-Challenge.py) | None|
+| <ul><li>[x] </li></ul> | Day 16 | 8 November 2023 | [While True Loop](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%20%16%While-True-loop.py) | None|
+| <ul><li>[x] </li></ul> | Day 17 | 9 November 2023 | [Rock Paper Scissors](https://github.com/TechUX/100DaysofCode/blob/main/Replit/Day%2017%20Rock-Paper-Scissors.py) | None|
+| <ul><li>[x] </li></ul> | Day 18 | 10 November 2023 | [Guess the number Game](https://github.com/TechUX/100DaysofCode/tree/main/Replit/Day%2018%20Guess-the-number-game.py) | None|
+
 
 
 ## My Social Links
